@@ -1,0 +1,6 @@
+{
+  "name": "AegisPass - Secure Password Manager",
+  "description": "Zero-knowledge encrypted password manager with browser extension integration, real-time secure autofill, TOTP authenticator, and live browser sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
